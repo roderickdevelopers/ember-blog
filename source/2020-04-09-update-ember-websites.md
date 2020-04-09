@@ -5,7 +5,7 @@ tags: Recent Posts, 2020
 responsive: true
 ---
 
-With the initial launch of the website redesign complete, we're now working on the various sub-domains that all come together to make up the Ember Website experience. We want to share these plans with the community, so that those who want to help know best where to pitch in. 
+With the initial launch of the website redesign complete, we're now working on the various sub-domains that all come together to make up the Ember Website experience. We want to share these plans with the community, so that those who want to help know where to pitch in. 
 
 Community members that want to help should familiarize themselves with the ember-styleguide addon - this is the UI addon that we're using to help us consistently apply the branded look and feel to all of the sub-domains within the website. Right now, that documentation is [linked to the PR](https://github.com/ember-learn/ember-styleguide/pull/145) for the redesign, but you can [use it to get up to speed on the new styling and CSS class names](https://deploy-preview-145--ember-styleguide.netlify.com/) (keep in mind that this link will eventually go away, since it's a preview URL).  
 
