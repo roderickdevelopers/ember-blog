@@ -1,6 +1,6 @@
 ---
 title: Update: The Ember Website
-author: Melanie Sumner & Chris Manson
+author: Melanie Sumner, Chris Manson
 tags: Recent Posts, 2020
 responsive: true
 ---
@@ -28,4 +28,3 @@ After that, we'll move on to implementing some fine-tuning and extra polish to a
 Now, while this is the plan for the website strike team, this project still follows our general community guidelines for contributing- if someone has particular energy for a subset of this work, then they should contribute to that as they are able. No one will be asked to shift their focus or work on something different. It just might be a while before we can really review the PR, so don't be discouraged by that! 
 
 I hope this quick update has helped clarify the plan and helped you identify places where you can get involved if you want to! The website strike team meets every Thursday morning, so if you want to come join in, you're more than welcome to do so!
-
